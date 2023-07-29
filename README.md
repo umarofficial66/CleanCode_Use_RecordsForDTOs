@@ -10,7 +10,7 @@ In C# 9.0, records were introduced as a powerful feature for creating simple, im
 
 ❇ Records are an excellent choice for creating DTOs due to their simplicity, immutability, and concise syntax, which helps in writing clean and maintainable code.
 
-![Uploading image.png…]()
+![CodingStyle](https://github.com/umarofficial66/CleanCode_Use_RecordsForDTOs/assets/56871240/2af8ccca-1459-4ee6-a293-531b46ee024c)
 
 The simplicity, immutability, and compact syntax of records make them an excellent choice for crafting clean and maintainable code, particularly when designing DTOs.
 
